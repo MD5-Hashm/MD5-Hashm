@@ -2,7 +2,7 @@
 
 I'm Hashm, a student in Toronto, Canada.
 
-I am fluent in python3 and I'm learning [golang](https://github.com/golang/go).
+I am fluent in [python3](https://www.python.org/) and I'm learning [golang](https://github.com/golang/go).
 
 Look around in my repos, maybe you will find somthing you like :)
 
